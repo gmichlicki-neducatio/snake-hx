@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="SnakeHX" package="pl.nedu.snake" version="1.0.0" company="N-Educatio" />
+	<app main="Main" path="Export" file="snake" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="Assets" rename="assets" />
+</project>
